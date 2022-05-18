@@ -1,8 +1,14 @@
 // Obtain the img element, and assign it to the image variable
-let image 
+let image = document.getElementById("pet").src = "https://placedog.net/800/640?id=15";)
 
 // Obtain the 'shrink-grow' button, and assign it to the changeSize variable
-let changeSize 
+let changeSize = document.getElementById("shrink-grow");
+    .style.height = "5px";
+}
+
+
+
+
 
 //DO NOT CHANGE THE FOLLOWING CODE
 changeSize.addEventListener("click", function() {

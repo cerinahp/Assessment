@@ -10,6 +10,7 @@ let changeSize = document.getElementById("shrink/grow")
 
 
 
+
 //DO NOT CHANGE THE FOLLOWING CODE
 changeSize.addEventListener("click", function() {
   if (image.style.height == "100px") {

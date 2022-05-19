@@ -6,12 +6,20 @@ img {
 }
 
 /* add code here to change the color and font family of your name/title */
-.h1 {
-  font-family: "Times New Roman";
+h1 {
+  font-family: "courier";
+  text-shadow: 2px 2px 5px #395896;
+  font-size: 100px
 }
 
 
 /* Bonus: change the color of your list elements */
+
+ol li {
+ color: #6790e0;
+  padding: 1px
+}
+
 
 
 

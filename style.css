@@ -20,13 +20,17 @@ ol li {
  color: #6790e0;
   padding: 1px
 }
-
+ol {
+  text:-align: center
+}
 
 
 
 body {
   text-align:center
 }
+
+
 
 div {
   text-align:center

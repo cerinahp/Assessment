@@ -7,7 +7,7 @@ img {
 
 /* add code here to change the color and font family of your name/title */
 h1 {
-  font-family: "courier";
+  font-family: "courier new";
   text-shadow: 2px 2px 5px #395896;
   font-size: 100px
 }

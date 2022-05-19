@@ -1,5 +1,25 @@
 /* add code here to make your image 300px square */
 
+img {
+  height: 300px;
+  width: 300px;
+}
+
 /* add code here to change the color and font family of your name/title */
+.h1 {
+  font-family: "Times New Roman";
+}
+
 
 /* Bonus: change the color of your list elements */
+
+
+
+body {
+  text-align:center
+}
+
+div {
+  text-align:left
+
+}
